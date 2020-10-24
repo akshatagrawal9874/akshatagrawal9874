@@ -1,9 +1,8 @@
 # <div align="center" ><img src="https://github.com/akshatagrawal9874/akshatagrawal9874/blob/master/Screenshot_9.png"></div>
-# <div align="center" ><img width="90" height="40" src="https://github.com/akshatagrawal9874/akshatagrawal9874/blob/master/giphy%20(2).gif">Hi there! It's Akshat👋<img width="90" height="40" src="https://github.com/akshatagrawal9874/akshatagrawal9874/blob/master/giphy%20(2).gif"> </div>
+# <div align="center" ><img width="90" height="40" src="https://github.com/akshatagrawal9874/akshatagrawal9874/blob/master/giphy%20(2).gif">Hi there! It's Akshat Agrawal👋<img width="90" height="40" src="https://github.com/akshatagrawal9874/akshatagrawal9874/blob/master/giphy%20(2).gif"> </div>
   
 <p >
   <img align="left" width="250" height="300" src="https://github.com/akshatagrawal9874/akshatagrawal9874/blob/master/200w%20(3).webp">
-  <img align="left" width="250" height="350" src="https://github.com/akshatagrawal9874/akshatagrawal9874/blob/master/giphy.gif">
   <img align="left" width="250" height="350" src="https://github.com/akshatagrawal9874/akshatagrawal9874/blob/master/giphy%20(1).gif">
 </p>
 
@@ -21,6 +20,7 @@
 Currently, in my 3rd Year, I am a Computer Science student from SVVV, Indore.I am really passionate about developing fast and efficient web project. I love to learn new things and implement them eventually to develop hands-on skills.Check out my repositories.
 
 🔭 I’m currently a frontend developer in Digital Projekt.
+:) I'm currently Campus Ninja at Coding Ninjas India.
 
 
 <div>
@@ -41,7 +41,7 @@ Currently, in my 3rd Year, I am a Computer Science student from SVVV, Indore.I a
   </p>
 <hr/>
 
-# <div align="center" >💬 Lets Connect and have a fun Geeky talk 📱 </div>
+# <div align="center" >💬 Let's Connect and have a fun Geeky talk 📱 </div>
 <p>
   <br />
   </p>
