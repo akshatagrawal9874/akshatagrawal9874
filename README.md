@@ -3,6 +3,7 @@
   
 <p >
   <img align="left" width="250" height="300" src="https://github.com/akshatagrawal9874/akshatagrawal9874/blob/master/200w%20(3).webp">
+  <img align="left" width="250" height="350" src="https://github.com/akshatagrawal9874/akshatagrawal9874/blob/master/tenor%20(1).gif">
   <img align="left" width="250" height="350" src="https://github.com/akshatagrawal9874/akshatagrawal9874/blob/master/giphy%20(1).gif">
 </p>
 
@@ -20,6 +21,7 @@
 Currently, in my 3rd Year, I am a Computer Science student from SVVV, Indore.I am really passionate about developing fast and efficient web project. I love to learn new things and implement them eventually to develop hands-on skills.Check out my repositories.
 
 🔭 I’m currently a frontend developer in Digital Projekt.
+<br />
 :) I'm currently Campus Ninja at Coding Ninjas India.
 
 
@@ -68,7 +70,7 @@ Currently, in my 3rd Year, I am a Computer Science student from SVVV, Indore.I a
   <img width="300" height="300" src="https://github.com/akshatagrawal9874/akshatagrawal9874/blob/master/200%20(1).webp">
 </div>
 
-# <div align="center" > 🦹‍♀️Daily Dose🤖</div>
+# <div align="center" > 😎Daily Dose🤖</div>
 
 - Playing Cricket and Watching Series ️
 - Writing Blogs 🖊
