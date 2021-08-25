@@ -1,6 +1,6 @@
 # <div align="center" ><img src="https://github.com/akshatagrawal9874/akshatagrawal9874/blob/master/Screenshot_9.png"></div>
 # <div align="center" ><img width="90" height="40" src="https://github.com/akshatagrawal9874/akshatagrawal9874/blob/master/giphy%20(2).gif">Hi there! It's Akshat Agrawal👋<img width="90" height="40" src="https://github.com/akshatagrawal9874/akshatagrawal9874/blob/master/giphy%20(2).gif"> </div>
-<img src="developer.gif" alt="banner that says Akshat Agrawal - Computer Science Undergraduate">  
+<center><img src="developer.gif" alt="banner that says Akshat Agrawal - Computer Science Undergraduate"></center>  
 <h3 align="center">Currently I'm CSE Student at Shri Vaishnav Vidyapeeth Vishwavidyalaya</h3>
 
 - 🌱 I’m currently learning **React.js,Java**
