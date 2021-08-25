@@ -3,7 +3,7 @@
  
 <h3 align="center">Currently I'm CSE Student at Shri Vaishnav Vidyapeeth Vishwavidyalaya</h3>
 
-- 🌱 I’m currently learning **React.js,Java**
+- 🌱 I’m currently learning **React Native and Java**
 
 - 👨‍💻 All of my projects are available at [https://akshatagrawal.netlify.app/](https://akshatagrawal.netlify.app/)
 
