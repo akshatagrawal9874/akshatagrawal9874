@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently working as a Associate Software Engineer at **Virtusa**
 
-- 👨‍💻 All of my projects are available at [https://akshatagrawal.netlify.app/](https://akshatagrawal.netlify.app/)
-
 - 💬 Ask me about **Programming**
 
 - 📫 How to reach me **akshatagrawal9874@gmail.com**
